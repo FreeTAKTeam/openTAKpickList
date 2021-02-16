@@ -5,14 +5,14 @@ a list of hardware and software to be used in conjunction with the ATAKplatform
 
 ### TAK platform
 #### Clients
-- ATAK:
+- ATAK: [Android Team Awareness Kit](https://en.wikipedia.org/wiki/Android_Team_Awareness_Kit)
 - winTAK:
 - iTAK:
 - webTAK:
 - 
 #### Servers
 - TAK server
-- FreeTAK server
+- FreeTAKServer: [connects sever TAK clients](https://github.com/FreeTAKTeam/FreeTakServer) 
 
 ### ATAK Plugins
 - Hammer / ARIK
