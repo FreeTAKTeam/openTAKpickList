@@ -12,7 +12,8 @@ a list of hardware and software to be used in conjunction with the ATAKplatform
 - Beacon
 #### Servers
 - TAK server
-- FreeTAKServer: [connects sever TAK clients](https://github.com/FreeTAKTeam/FreeTakServer) 
+- FreeTAKServer: [connects sever TAK clients](https://github.com/FreeTAKTeam/FreeTakServer)
+- (FreeTAKServer Docker) [https://github.com/FreeTAKTeam/FreeTAKServer-Docker]
 
 ### ATAK Plugins
 - Hammer / ARIK
@@ -66,6 +67,9 @@ NON AVAILABLE PLUGINS
 - wxreport	weather report. works for forecast in Canada
 - Meshtastic	callled ATAK Forwarder. Allows you to connect meshtastic LORA device through ATAK
 - Bounce-Viewer	allows to use a trowable camera in ATAK
+
+### MAPS
+- [ATAK Maps] (https://github.com/joshuafuller/ATAK-Maps)
 
 ## Hardware
 
