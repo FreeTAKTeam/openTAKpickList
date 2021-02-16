@@ -9,14 +9,14 @@ a list of hardware and software to be used in conjunction with the ATAKplatform
 - winTAK:
 - iTAK:
 - webTAK:
-- 
+- Beacon
 #### Servers
 - TAK server
 - FreeTAKServer: [connects sever TAK clients](https://github.com/FreeTAKTeam/FreeTakServer) 
 
 ### ATAK Plugins
 - Hammer / ARIK
-- Fowarder
+- [TAK Fowarder](https://github.com/paulmandal/atak-forwarder)
 
 NON AVAILABLE PLUGINS
 - ES Chat	creates a PTT button over the screen (no configuration?)
