@@ -78,6 +78,10 @@ NON AVAILABLE PLUGINS
 
 ## Hardware
 
+### Microservers
+- [Pi:](https://www.amazon.com/CanaKit-Raspberry-Basic-Kit-8GB/dp/B08DJ9MLHV/ref=mp_s_a_1_3?dchild=1&keywords=pi4+8gb+raspberry&qid=1613526745&sprefix=pi4+&sr=8-3)
+[PI case:]9https://www.amazon.com/Argon-Raspberry-Heatsink-Supports-Accessible/dp/B07WMG27T7/ref=mp_s_a_1_1_sspa?dchild=1&keywords=argon+neo+raspberry+pi+4+case&qid=1613526849&sprefix=argon+neo&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzUDFTTTZDQjlYU1FMJmVuY3J5cHRlZElkPUEwMTk0OTI1MjZOV0pHR1lTSkgzTCZlbmNyeXB0ZWRBZElkPUEwNjQyNjYyMTNaTEZQMExIVUFMVSZ3aWRnZXROYW1lPXNwX3Bob25lX3NlYXJjaF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl)
+
 ### GPS
 
 ### Range finders
