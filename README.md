@@ -5,11 +5,12 @@ a list of hardware and software to be used in conjunction with the ATAKplatform
 
 ### TAK platform
 #### Clients
-- ATAK: [Android Team Awareness Kit](https://en.wikipedia.org/wiki/Android_Team_Awareness_Kit)
-- winTAK:
-- iTAK:
-- webTAK:
+- ATAK: available from the playstore (reduced version) full version for all architectures here TBD
+- WinTAK: [v4.1.0.231](https://drive.google.com/file/d/1BSdTpMVPlQj53W-aH83Vldc_bJpB9ZZQ/view)
+- iTAK: Not publicaly available.
+- webTAK:	- WebTAK: Only available with the official TAK Server.
 - [CoT Beacon (and CoT Generator)](https://github.com/jonapoul/cotgenerator)
+
 #### Servers
 - TAK server
 - FreeTAKServer: [connects sever TAK clients](https://github.com/FreeTAKTeam/FreeTakServer)
