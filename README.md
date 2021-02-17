@@ -7,7 +7,7 @@ A list of hardware and software to be used in conjunction with the ATAKplatform
 #### Clients
 - ATAK: [Android Team Awareness Kit](https://en.wikipedia.org/wiki/Android_Team_Awareness_Kit)
 - WinTAK: [v4.1.0.231](https://drive.google.com/file/d/1BSdTpMVPlQj53W-aH83Vldc_bJpB9ZZQ/view)
-- iTAK: Not publicaly available.
+- iTAK: Not publicly available.
 - WebTAK: Only available with the official TAK Server.
 - Beacon
 #### Servers
