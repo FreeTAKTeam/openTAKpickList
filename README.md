@@ -70,6 +70,9 @@ NON AVAILABLE PLUGINS
 - Meshtastic	callled ATAK Forwarder. Allows you to connect meshtastic LORA device through ATAK
 - Bounce-Viewer	allows to use a trowable camera in ATAK
 
+### Libraries
+
+
 ### MAPS
 - [ATAK Maps] (https://github.com/joshuafuller/ATAK-Maps)
 
