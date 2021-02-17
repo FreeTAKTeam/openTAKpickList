@@ -81,8 +81,10 @@ NON AVAILABLE PLUGINS
 
 ### Radios
 
-### off-grid comms
-- Meshtastic
+### Off-grid Comms
+- Meshtastic: Use with ATAK Forwarder Plugin. [Project Page](https://www.meshtastic.org/)
+    - Latest recommended hardware revision: [T-Beam V1.1 w/ NEO-M8N /w SX1262](https://www.amazon.com/TTGO-Wireless-Bluetooth-NEO-M8N-Battery/dp/B08GK8JP7Y/ref=sr_1_15?dchild=1&keywords=TTGO&qid=1613529697&sr=8-15)
+    - Compatible case for 3D Printing: [T-BEAM_M8N_Case_Molle_IMA_v0.4_10FEB2021.stp.zip](https://discord.com/channels/698067185515495436/699733695333924976/809569287177371668)
 - goTenna
 - Radacat
 
