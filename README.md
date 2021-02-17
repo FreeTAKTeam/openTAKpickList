@@ -9,7 +9,7 @@ a list of hardware and software to be used in conjunction with the ATAKplatform
 - winTAK:
 - iTAK:
 - webTAK:
-- Beacon
+- [CoT Beacon (and CoT Generator)](https://github.com/jonapoul/cotgenerator)
 #### Servers
 - TAK server
 - FreeTAKServer: [connects sever TAK clients](https://github.com/FreeTAKTeam/FreeTakServer)
@@ -18,6 +18,7 @@ a list of hardware and software to be used in conjunction with the ATAKplatform
 ### ATAK Plugins
 - Hammer / ARIK
 - [TAK Fowarder](https://github.com/paulmandal/atak-forwarder)
+- [CoT Generator Plugin](https://github.com/jonapoul/cotgenerator-plugin) (currently requires building and signing yourself)
 
 NON AVAILABLE PLUGINS
 - ES Chat	creates a PTT button over the screen (no configuration?)
