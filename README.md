@@ -1,22 +1,22 @@
 # openTAKpickList
-a list of hardware and software to be used in conjunction with the ATAKplatform
+A list of hardware and software to be used in conjunction with the ATAKplatform
 
 ## Software
 
 ### TAK platform
 #### Clients
 - ATAK: [Android Team Awareness Kit](https://en.wikipedia.org/wiki/Android_Team_Awareness_Kit)
-- winTAK:
-- iTAK:
-- webTAK:
+- WinTAK: [v4.1.0.231](https://drive.google.com/file/d/1BSdTpMVPlQj53W-aH83Vldc_bJpB9ZZQ/view)
+- iTAK: Not publicaly available.
+- WebTAK: Only available with the official TAK Server.
 - Beacon
 #### Servers
-- TAK server
+- TAK Server
 - FreeTAKServer: [connects sever TAK clients](https://github.com/FreeTAKTeam/FreeTakServer)
 - (FreeTAKServer Docker) [https://github.com/FreeTAKTeam/FreeTAKServer-Docker]
 
 ### ATAK Plugins
-- Hammer / ARIK
+- [Hammer / ARIK](https://play.google.com/store/apps/details?id=com.atakmap.android.cot_utility.plugin&hl=en_US&gl=US)
 - [TAK Fowarder](https://github.com/paulmandal/atak-forwarder)
 
 NON AVAILABLE PLUGINS
@@ -75,12 +75,14 @@ NON AVAILABLE PLUGINS
 
 ### GPS
 
-### Range finders
+### Range Finders
 
 ### Radios
 
-### off-grid comms
-- Meshtastic
+### Off-grid Comms
+- Meshtastic: Use with ATAK Forwarder Plugin. [Project Page](https://www.meshtastic.org/)
+    - Latest recommended hardware revision: [T-Beam V1.1 w/ NEO-M8N /w SX1262](https://www.amazon.com/TTGO-Wireless-Bluetooth-NEO-M8N-Battery/dp/B08GK8JP7Y/ref=sr_1_15?dchild=1&keywords=TTGO&qid=1613529697&sr=8-15)
+    - Compatible case for 3D Printing: [T-BEAM_M8N_Case_Molle_IMA_v0.4_10FEB2021.stp.zip](https://discord.com/channels/698067185515495436/699733695333924976/809569287177371668)
 - goTenna
 - Radacat
 
