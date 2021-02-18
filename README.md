@@ -9,7 +9,7 @@ a list of hardware and software to be used in conjunction with the ATAKplatform
 - WinTAK: [v4.1.0.231](https://drive.google.com/file/d/1BSdTpMVPlQj53W-aH83Vldc_bJpB9ZZQ/view)
 - iTAK: Not publicaly available.
 - webTAK:	- WebTAK: Only available with the official TAK Server.
-- [CoT Beacon (and CoT Generator)](https://github.com/jonapoul/cotgenerator)
+- [CoT Beacon (and CoT Generator)](https://github.com/jonapoul/cotgenerator): a simple beacon  that send the position of team memebers without using ATAK. works on Android
 
 #### Servers
 - TAK server
