@@ -17,6 +17,7 @@ a list of hardware and software to be used in conjunction with the TAK platform.
 - TAK server: Non available to the public
 - FreeTAKServer: [connects sever TAK clients](https://github.com/FreeTAKTeam/FreeTakServer)
 - (FreeTAKServer Docker) [https://github.com/FreeTAKTeam/FreeTAKServer-Docker]
+- [MultiTAK](https://github.com/vidterra/multitak): network routing focused TAK server
 
 ### ATAK Plugins
 - [Hammer / ARIK](https://play.google.com/store/apps/details?id=com.atakmap.android.cot_utility.plugin&hl=en_CA&gl=US): HAMMER is an ATAK plugin that acts as a software modem and allows transmission/receipt of Cursor on Target (CoT) messages over voice communications. This means that two ATAK devices can communicate with each other over any voice-capable radio, e.g., commercial off the shelf walkie talkies. While it is anticipated that this will be extended in the near future, HAMMER currently supports sending and receiving CoT map markers, self-reported locations and chat messages.
@@ -73,7 +74,7 @@ NON AVAILABLE PLUGINS
 - Bounce-Viewer	allows to use a trowable camera in ATAK
 
 ### Libraries
-
+- [tak.js](https://github.com/vidterra/tak.js): javascript TAK library
 
 ### MAPS
 - [ATAK Maps] (https://github.com/joshuafuller/ATAK-Maps)
