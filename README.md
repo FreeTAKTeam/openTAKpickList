@@ -10,6 +10,7 @@ a list of hardware and software to be used in conjunction with the ATAKplatform
 - iTAK: Not publicaly available.
 - webTAK:	- WebTAK: Only available with the official TAK Server.
 - [CoT Beacon (and CoT Generator)](https://github.com/jonapoul/cotgenerator): a simple beacon  that send the position of team memebers without using ATAK. works on Android
+- [FreeTAk UAS](https://play.google.com/store/apps/details?id=org.FreeTak.FreeTAKUAS&hl=en_US&gl=US): Android application to control your DJI drone and stream video and position to conneccted TAK clients 
 
 #### Servers
 - TAK server
