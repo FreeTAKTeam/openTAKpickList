@@ -1,5 +1,5 @@
 # openTAKpickList
-a list of hardware and software to be used in conjunction with the ATAKplatform
+a list of hardware and software to be used in conjunction with the TAK platform.
 
 ## Software
 
@@ -10,15 +10,16 @@ a list of hardware and software to be used in conjunction with the ATAKplatform
 - iTAK: Not publicaly available.
 - webTAK:	- WebTAK: Only available with the official TAK Server.
 - [CoT Beacon (and CoT Generator)](https://github.com/jonapoul/cotgenerator): a simple beacon  that send the position of team memebers without using ATAK. works on Android
-- [FreeTAk UAS](https://play.google.com/store/apps/details?id=org.FreeTak.FreeTAKUAS&hl=en_US&gl=US): Android application to control your DJI drone and stream video and position to conneccted TAK clients 
+- [FreeTAk UAS](https://play.google.com/store/apps/details?id=org.FreeTak.FreeTAKUAS&hl=en_US&gl=US): Android application to control your DJI drone and stream video and position to conneccted TAK clients
+- [TAK tracker](https://play.google.com/store/apps/details?id=gov.tak.taktracker&hl=en_CA&gl=US): TAK Tracker is a “send only” version of ATAK. THERE IS NO MAP.
 
 #### Servers
-- TAK server
+- TAK server: Non available to the public
 - FreeTAKServer: [connects sever TAK clients](https://github.com/FreeTAKTeam/FreeTakServer)
 - (FreeTAKServer Docker) [https://github.com/FreeTAKTeam/FreeTAKServer-Docker]
 
 ### ATAK Plugins
-- Hammer / ARIK
+- [Hammer / ARIK](https://play.google.com/store/apps/details?id=com.atakmap.android.cot_utility.plugin&hl=en_CA&gl=US): HAMMER is an ATAK plugin that acts as a software modem and allows transmission/receipt of Cursor on Target (CoT) messages over voice communications. This means that two ATAK devices can communicate with each other over any voice-capable radio, e.g., commercial off the shelf walkie talkies. While it is anticipated that this will be extended in the near future, HAMMER currently supports sending and receiving CoT map markers, self-reported locations and chat messages.
 - [TAK Fowarder](https://github.com/paulmandal/atak-forwarder)
 - [CoT Generator Plugin](https://github.com/jonapoul/cotgenerator-plugin) (currently requires building and signing yourself)
 
