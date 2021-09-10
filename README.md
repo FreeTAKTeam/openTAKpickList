@@ -15,9 +15,10 @@ a list of hardware and software to be used in conjunction with the TAK platform.
 
 #### Servers
 - TAK server: Non available to the public
-- FreeTAKServer: [connects sever TAK clients](https://github.com/FreeTAKTeam/FreeTakServer)
-- (FreeTAKServer Docker) [https://github.com/FreeTAKTeam/FreeTAKServer-Docker]
-- [ArgusTAK](https://argustak.com/) : Cloud hosted TAK Server - get started with up to 5 devices for free!
+- [FreeTAKServer](https://github.com/FreeTAKTeam/FreeTakServer): connects sever TAK clients
+- [FreeTAKServer Docker] (https://github.com/FreeTAKTeam/FreeTAKServer-Docker): dockerize version of FTS
+- [MultiTAK](https://github.com/vidterra/multitak): network routing focused TAK server
+- [ArgusTAK](https://argustak.com/) : commercial Cloud hosted TAK Server. not open source
 
 #### installers
 - [FreeTAKServer_Manager](https://github.com/Cale-Torino/FreeTAKServer_Manager): Windows FTS Installer/Uninstaller GUI
@@ -26,6 +27,7 @@ a list of hardware and software to be used in conjunction with the TAK platform.
 - [Hammer / ARIK](https://play.google.com/store/apps/details?id=com.atakmap.android.cot_utility.plugin&hl=en_CA&gl=US): HAMMER is an ATAK plugin that acts as a software modem and allows transmission/receipt of Cursor on Target (CoT) messages over voice communications. This means that two ATAK devices can communicate with each other over any voice-capable radio, e.g., commercial off the shelf walkie talkies. While it is anticipated that this will be extended in the near future, HAMMER currently supports sending and receiving CoT map markers, self-reported locations and chat messages.
 - [TAK Fowarder](https://github.com/paulmandal/atak-forwarder)
 - [CoT Generator Plugin](https://github.com/jonapoul/cotgenerator-plugin) (currently requires building and signing yourself)
+- [WASP](https://play.google.com/store/apps/details?id=com.atakmap.android.wasp.plugin&hl=en_CA&gl=US):  The Wide Area Search Plugin (WASP) is an ATAK plugin that helps coordinate and execute wide area search operations after a disaster, such as a hurricane or tornado. Teams conducting search and rescue operations can use WASP to view and share data with commanders and other responders, for efficient coordination and response planning. WASP set of icons to assess conditions of structurs and people in case of an emergency. can broadcast auomatically COTs
 
 NON AVAILABLE PLUGINS
 - ES Chat	creates a PTT button over the screen (no configuration?)
@@ -54,7 +56,6 @@ NON AVAILABLE PLUGINS
 - NEON	allow to use the NEON offgrid tracking system. see https://www.trxsystems.com/personnel-tracker-offline.html
 - Wave	plugins for radio
 - wave relay	wave relay monitor
-- wide Area Search	WASP set of icons to assess conditions of structurs and people in case of an emergency. can broadcast auomatically COTs
 - Chokepoint	Provide calculation of stategic points necessary to hold a region
 - cloud FTP	allows to connect to FTP servers.
 - Compass nav	display a big navigation interface that helps navigate to a certain point
@@ -65,7 +66,6 @@ NON AVAILABLE PLUGINS
 - gotennapro ag	new version of GoTenna Pro?
 - gotennaConsumer	allow to connect to a radio that transmit data (position, chat, ...) require device
 - grg builder	create a grid that can be drop on the map and shared with others
-- Hammer	allow to use regular radios for Data transmission
 - QuickLog	provide an inteface to take notes (not possible to exchange them (!)
 - quickchat	works on the por of geochat to improve the ui ??? need test
 - TAK geoCam	geospatially savy Android Camera. add a separate aoo for the geocamera to the phone, adding the ability to put an layer with geo information
@@ -77,7 +77,7 @@ NON AVAILABLE PLUGINS
 - Bounce-Viewer	allows to use a trowable camera in ATAK
 
 ### Libraries
-
+- [tak.js](https://github.com/vidterra/tak.js): javascript TAK library
 
 ### MAPS
 - [ATAK Maps] (https://github.com/joshuafuller/ATAK-Maps)
