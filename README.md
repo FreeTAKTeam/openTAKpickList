@@ -43,7 +43,7 @@ Standalone applications released by the TAK Product Center (TPC) on the Google P
 
 ## TAK Server Software (Free/Open Source)
 * **FreeTAKServer**, a implementation of the TAK Server for devices like ATAK, WinTAK, and ITAK, it is cross-platform and runs from a multi node installation on AWS down to the Android edition. It's free and open source (released under the Eclipse Public License). - [GitHub](https://github.com/FreeTAKTeam/FreeTakServer)
-* **GoATAK**. Golang implementation of ATAK server/CoT router aimed to test some ideas about CoT message routing. - [GitHub](https://github.com/kdudkov/goatak)
+* **GoATAK**, Golang implementation of ATAK server/CoT router aimed to test some ideas about CoT message routing. - [GitHub](https://github.com/kdudkov/goatak)
 * **taky**, a simple Python TAK Server. - [GitHub](https://github.com/tkuester/taky)
 * **MultiTAK**, a simple TAK server written in Javascript that relays messages between networks and servers. - [GitHub](https://github.com/vidterra/multitak)
 
@@ -106,6 +106,7 @@ Standalone applications released by the TAK Product Center (TPC) on the Google P
 ### Radio
 * **Retevis** - [Website](https://www.retevis.com/handheld-radios)
 * **BTech** - [BTECH APRS-K1 Cable (Amazon)](https://www.amazon.com/BTECH-APRS-K1-Interface-APRSDroid-Compatible/dp/B01LMIBAZW)
+* **airMAX RocketM 2** - [Specs](https://store.ui.com/products/rocket-m2), [Amazon](https://www.amazon.com/Ubiquiti-ROCKETM2-2-4GHz-AirMax-BaseStation/dp/B004EHSP3Y), [AREDN®](https://arednmesh.readthedocs.io/en/latest/arednGettingStarted/aredn_overview.html)
 
 ### Range Finders
 * **TruPulse 360 Laser Rangefinder** (w/ Bluetooth) - [Website](https://www.lasertech.com/TruPulse-Laser-Rangefinder.aspx)
