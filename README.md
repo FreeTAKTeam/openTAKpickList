@@ -69,6 +69,10 @@ Standalone applications released by the TAK Product Center (TPC) on the Google P
 * **WinTAK Binaries** - [Google Drive](https://drive.google.com/drive/u/3/folders/1_UeEcZLVl81tbH5gSMpH4iY_XB_uuseb)
 * **WinTAK Support Plugins** - [Google Drive](https://drive.google.com/drive/u/3/folders/1M1pVLvCxh5keB5V_tXz4MNqTqH8PFC-i)
 
+## Map Sources
+
+* [**A collection of maps for with ATAK** - GitHub](https://github.com/joshuafuller/ATAK-Maps)
+
 ## TAK Community Discussion, Chat and Resources
 * [TAK Community on Reddit](https://www.reddit.com/r/ATAK/)
 * [TAK Community on Discord](https://discord.gg/xTdEcpc)
@@ -134,7 +138,7 @@ These plugins are available from the TAK Product Center at [tak.gov](https://tak
 * **Pager** is a tool for no notice callouts and for tracking personnel accountability to events within or in proximity to a defined location.
 * ATAK **Quantized Mesh** elevation data integration using the specification provided by Cesium.
 * **QuickChat** plug-in integrates with the messaging system of ATAK to allow displaying a large dialog banner when certain/specific messages are received or messages from high priority users. High priority users are determined based on a predefined list built into the plug-in with the ability to add or remove from the list later. 
-* Quick Log allows you to take and store quick notes such as reminders or observations you've made that you need to remember. TAK sticky notes.
+* **Quick Log** allows you to take and store quick notes such as reminders or observations you've made that you need to remember. TAK sticky notes.
 * **TAK Chat** plug-in is used to chat securely with other systems via XMPP.  Since XMPP is a standard, this plug-in can chat with other applications and platforms, including non TAK products.
 * **Track Export** plug-in adds support for exporting data including track logs to various formats including KML/Z, GPX and others.
 * The **UAS Tool** is a plug-in that provides integration of Unmanned Aircraft Systems (UAS) for enhanced Situational Awareness (SA) and telemetry data, Full Motion Video (FMV), and command and control (C2).
