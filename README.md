@@ -71,7 +71,7 @@ Standalone applications released by the TAK Product Center (TPC) on the Google P
 
 ## Map Sources
 
-* [**A collection of maps for with ATAK** - GitHub](https://github.com/joshuafuller/ATAK-Maps)
+* [**A collection of maps for ATAK** - GitHub](https://github.com/joshuafuller/ATAK-Maps)
 
 ## TAK Community Discussion, Chat and Resources
 * [TAK Community on Reddit](https://www.reddit.com/r/ATAK/)
