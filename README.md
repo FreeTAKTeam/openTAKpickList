@@ -26,6 +26,7 @@ Plugins released by the TAK Product Center (TPC) on the Google Play Store and on
 
 ## TAK Plugins (Community Developed)
 * **atak-forwarder**, forwards packets to/from ATAK over an off-grid communication layer. (Meshtastic) - [GitHub](https://github.com/paulmandal/atak-forwarder), [Binary Repository](https://drive.google.com/drive/folders/1xeKJnn9tmzkkmuDbMp0LCLOV9OzHU-Ex)
+* **'Improved' HAMMER Fork**, a customized HAMMER build with performance hacks. - [GitHub](https://github.com/niccellular/hammer), [Binary Repository](https://drive.google.com/drive/folders/11y4tOyomIVV7piBU-AbI77hX5ZpoDk01) 
 
 ## TAK Utilities (TPC)
 Standalone applications released by the TAK Product Center (TPC) on the Google Play Store and on TAK.gov.
@@ -98,7 +99,7 @@ Standalone applications released by the TAK Product Center (TPC) on the Google P
 
 ### Radio
 * **Retevis**
-* **BTech**
+* **BTech** - [BTECH APRS-K1 Cable (Amazon)](https://www.amazon.com/BTECH-APRS-K1-Interface-APRSDroid-Compatible/dp/B01LMIBAZW)
 
 ### Range Finders
 * **TruPulse 360 Laser Rangefinder** (w/ Bluetooth) - [Website](https://www.lasertech.com/TruPulse-Laser-Rangefinder.aspx)
@@ -110,8 +111,15 @@ Standalone applications released by the TAK Product Center (TPC) on the Google P
 
 
 ### End-User Devices Cases
-* **Kagwerks** - [Operator Kits and Cases](https://kagwerks.com/collections/operators-kits)
+
+## OG Cases
 * **Jugggernaut Case** - [Smartphone Cases](https://shop.juggernautcase.com/smartphone-cases/juggernaut-cases/)
+* **Kagwerks** - [Operator Kits and Cases](https://kagwerks.com/collections/operators-kits)
+
+## AliExpress / Chinesium Cases
+
+* **Universal Phone Panel Information Board** - [AliExpress](https://www.aliexpress.com/item/4001068393467.html)
+* **Carrier Plate Panel for Tactical Vest** - [AliExpress](https://www.aliexpress.com/item/1005001643838775.html)
 
 ## TAK Product Center Plugins - CIV (USG)
 These plugins are available from the TAK Product Center at [tak.gov](https://tak.gov). With updated _actual_ descriptions from TPC. As there are some inaccuracies on the original pull. Plugins names are in **bold**.
@@ -150,3 +158,11 @@ These plugins are available from the TAK Product Center at [tak.gov](https://tak
 * **Neon** plug-in provides GPS-denied tracking using TRX Neon Tracking Devices and the Neon Location Service.  The Neon Location Service combines inertial motion, Android GPS locations and externally connected device locations to provide a continuous location and altitude for the ATAK interface.
 * Provides a **SIP** capability for ATAK based on native Android libraries specifically for Voice over IP servers such as Asterisk and FreeSIP.
 * **Somewear**’s compact satellite hotspot and ATAK plugin provide reliable BLOS communication and situational awareness between personnel, assets, interagency partners and operations centers. Somewear supports 100% global coverage across ground, aerial and maritime operations. [https://www.somewearlabs.com/government](https://www.somewearlabs.com/government)
+
+# References
+
+* TAK Product Center - takmaps.com, tak.gov
+* Original openTAKPickList (V1)
+* TAK Discord Community Feedback
+* Reddit TAK JumpStart Wiki
+* CivTAK.org Wiki
