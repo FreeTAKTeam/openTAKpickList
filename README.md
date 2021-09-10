@@ -1,114 +1,148 @@
-# openTAKpickList
-a list of hardware and software to be used in conjunction with the TAK platform.
+# 'openTAKpickList' - Team Awareness Kit (TAK) - related resources and links.
 
-## Software
+This is a list of web resources, hardware and software that can be used in conjunction with the Team Awareness Kit (TAK) platform.
 
-### TAK platform
-#### Clients
-- ATAK: available from the playstore (reduced version) full version for all architectures here TBD
-- WinTAK: [v4.1.0.231](https://drive.google.com/file/d/1BSdTpMVPlQj53W-aH83Vldc_bJpB9ZZQ/view)
-- iTAK: Not publicaly available.
-- webTAK:	- WebTAK: Only available with the official TAK Server.
-- [CoT Beacon (and CoT Generator)](https://github.com/jonapoul/cotgenerator): a simple beacon  that send the position of team memebers without using ATAK. works on Android
-- [FreeTAk UAS](https://play.google.com/store/apps/details?id=org.FreeTak.FreeTAKUAS&hl=en_US&gl=US): Android application to control your DJI drone and stream video and position to conneccted TAK clients
-- [TAK tracker](https://play.google.com/store/apps/details?id=gov.tak.taktracker&hl=en_CA&gl=US): TAK Tracker is a “send only” version of ATAK. THERE IS NO MAP.
+## Official TAK Resources
+* [TAK Product Center - New](https://tak.gov) 
+* [TAK Product Center - Old](https://takmaps.com)
+* [TAK Promo Video - YouTube](https://www.youtube.com/watch?v=tojMXYMVdyw)
 
-#### Servers
-- TAK server: Non available to the public
-- [FreeTAKServer](https://github.com/FreeTAKTeam/FreeTakServer): connects sever TAK clients
-- [FreeTAKServer Docker] (https://github.com/FreeTAKTeam/FreeTAKServer-Docker): dockerize version of FTS
-- [MultiTAK](https://github.com/vidterra/multitak): network routing focused TAK server
-- [ArgusTAK](https://argustak.com/) : commercial Cloud hosted TAK Server. not open source
+## Community TAK Resources
+* [CivTAK.org Website](https://www.civtak.org)
+* [TAK JumpStart Wiki on Reddit](https://www.reddit.com/r/ATAK/wiki/index)
+* [CivTAK Wiki](https://wiki.civtak.org/index.php) * Needs updating.
 
-#### installers
-- [FreeTAKServer_Manager](https://github.com/Cale-Torino/FreeTAKServer_Manager): Windows FTS Installer/Uninstaller GUI
+## TAK Binaries and Source Code (TPC)
+Released by the TAK Product Center (TPC)
 
-### ATAK Plugins
-- [Hammer / ARIK](https://play.google.com/store/apps/details?id=com.atakmap.android.cot_utility.plugin&hl=en_CA&gl=US): HAMMER is an ATAK plugin that acts as a software modem and allows transmission/receipt of Cursor on Target (CoT) messages over voice communications. This means that two ATAK devices can communicate with each other over any voice-capable radio, e.g., commercial off the shelf walkie talkies. While it is anticipated that this will be extended in the near future, HAMMER currently supports sending and receiving CoT map markers, self-reported locations and chat messages.
-- [TAK Fowarder](https://github.com/paulmandal/atak-forwarder)
-- [CoT Generator Plugin](https://github.com/jonapoul/cotgenerator-plugin) (currently requires building and signing yourself)
-- [WASP](https://play.google.com/store/apps/details?id=com.atakmap.android.wasp.plugin&hl=en_CA&gl=US):  The Wide Area Search Plugin (WASP) is an ATAK plugin that helps coordinate and execute wide area search operations after a disaster, such as a hurricane or tornado. Teams conducting search and rescue operations can use WASP to view and share data with commanders and other responders, for efficient coordination and response planning. WASP set of icons to assess conditions of structurs and people in case of an emergency. can broadcast auomatically COTs
+* Android Team Awareness Kit (ATAK) - CIV - [Google Play](https://play.google.com/store/apps/details?id=com.atakmap.app.civ)
+* Android Team Awareness Kit (ATAK) - CIV | Source Code - [GitHub](https://github.com/deptofdefense/AndroidTacticalAssaultKit-CIV)
 
-NON AVAILABLE PLUGINS
-- ES Chat	creates a PTT button over the screen (no configuration?)
-- oceusvpn	unclear, not functional?
-- pdfdocuments	display PDF documents from download folder only
-- ads-b	Privides air Traffic Control Data (reqiires external Hardware)
-- AR repeater	Augmented reality feed information and location to the augmented reality system
-- BlockGenerator	generates a block from a polyline (??)
-- DSM Manager	digital surface model for viewing terrain and building heights
-- GlenairStarpan	STAR-PAN™ Integrated Soldier Multiport USB Data Hub / Power Distribution Systems and Tactical Interconnects
-- HUD	unclear, probably send COT information to a hardware connected device (ARC4 and e COTI see https://www.ara.com/products/arc4-recon
-- IceTAK	Instant connect. looks like PTT voice over IP instanconnect.com
-- manifest maker	creates cargo manifest for prisoners (!)
-- QM elevation	mesh elevation data provided by Cesium
-- Reports	reporting tool that includes counter Intel Threat Reporting
-- sip	used as a basis to develop voice over IP clients
-- Somewear	satellite access , proprietary
-- takchat	provides XMPP chat
-- trackexport	automates export of GPS, track data
-- beartooth TAK	allows to use beartooth offgrid with ATAK
-- CBRN plugin	CBRN sensors integration plugin. allow to display chemical, batteriological, nuclear info
-- geep portable	plugin for the creation of portable maps
-- gotenna Pro	connects the product to ATAK
-- GvLFStreamer	aka DTED Streamer. Connect to server IP 8080/gvlf-server
-- icom	Kopis mobile MMRIS. addon to use regular radios
-- NEON	allow to use the NEON offgrid tracking system. see https://www.trxsystems.com/personnel-tracker-offline.html
-- Wave	plugins for radio
-- wave relay	wave relay monitor
-- Chokepoint	Provide calculation of stategic points necessary to hold a region
-- cloud FTP	allows to connect to FTP servers.
-- Compass nav	display a big navigation interface that helps navigate to a certain point
-- Drifter	allow to simulate the direction and speed of any COT
-- data sync	former Mission. can display a timeline of data; works with server groups
-- ExCheck	allows to create and consumer cohoperative task lists
-- geoTAKCam	add a separate interface for the camera to the phone, adding the ability to put an layer with geo information
-- gotennapro ag	new version of GoTenna Pro?
-- gotennaConsumer	allow to connect to a radio that transmit data (position, chat, ...) require device
-- grg builder	create a grid that can be drop on the map and shared with others
-- QuickLog	provide an inteface to take notes (not possible to exchange them (!)
-- quickchat	works on the por of geochat to improve the ui ??? need test
-- TAK geoCam	geospatially savy Android Camera. add a separate aoo for the geocamera to the phone, adding the ability to put an layer with geo information
-- TAK ICU	add a separate app for to the phone remote video capability (including broadcasting of videos)
-- Uas tool	alow to fly a DJOI drone (with SDK) using ATAK and stream COTs
-- VNS	vehicle Navigation system. add commercial like navigation capabilities to ATAK
-- wxreport	weather report. works for forecast in Canada
-- Meshtastic	callled ATAK Forwarder. Allows you to connect meshtastic LORA device through ATAK
-- Bounce-Viewer	allows to use a trowable camera in ATAK
+## TAK Plugins (TPC)
+Plugins released by the TAK Product Center (TPC) on the Google Play Store and on TAK.gov.
 
-### Libraries
-- [tak.js](https://github.com/vidterra/tak.js): javascript TAK library
+* **WASP**, a plug-in for conducting and coordinating Wide Area Search, including search and extraction, confined space rescue, and victim triage, when responding to incidents such as a natural disaster. - [Google Play](https://play.google.com/store/apps/details?id=com.atakmap.android.wasp.plugin)
+* **HAMMER**,  Handheld Acoustic Modem for Mobile Exchanges with Radios (HAMMER) is an ATAK plugin that acts as a software acoustic modem, allowing one to transmit/receive TAK data over voice comms (e.g., via walkie talkies). - [Google Play](https://play.google.com/store/apps/details?id=com.atakmap.android.cot_utility.plugin)
 
-### MAPS
-- [ATAK Maps] (https://github.com/joshuafuller/ATAK-Maps)
+## TAK Plugins (Community Developed)
+* **atak-forwarder**, forwards packets to/from ATAK over an off-grid communication layer. (Meshtastic) - [GitHub](https://github.com/paulmandal/atak-forwarder), [Binary Repository](https://drive.google.com/drive/folders/1xeKJnn9tmzkkmuDbMp0LCLOV9OzHU-Ex)
 
-## Hardware
+## TAK Utilities (TPC)
+Standalone applications released by the TAK Product Center (TPC) on the Google Play Store and on TAK.gov.
 
-### Microservers
-- [Pi:](https://www.amazon.com/CanaKit-Raspberry-Basic-Kit-8GB/dp/B08DJ9MLHV/ref=mp_s_a_1_3?dchild=1&keywords=pi4+8gb+raspberry&qid=1613526745&sprefix=pi4+&sr=8-3) CanaKit Raspberry Pi 4 Starter Kit (8GB RAM)
-- [PI case:](https://www.amazon.com/Argon-Raspberry-Heatsink-Supports-Accessible/dp/B07WMG27T7/ref=mp_s_a_1_1_sspa?dchild=1&keywords=argon+neo+raspberry+pi+4+case&qid=1613526849&sprefix=argon+neo&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzUDFTTTZDQjlYU1FMJmVuY3J5cHRlZElkPUEwMTk0OTI1MjZOV0pHR1lTSkgzTCZlbmNyeXB0ZWRBZElkPUEwNjQyNjYyMTNaTEZQMExIVUFMVSZ3aWRnZXROYW1lPXNwX3Bob25lX3NlYXJjaF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl) Argon NEO Raspberry Pi 4 Case 
+* **TAK Tracker**, is a “send only” version of ATAK. - [Google Play](https://play.google.com/store/apps/details?id=gov.tak.taktracker)
+
+## TAK Utilities (Community Developed)
+* **cotbeacon**, standalone SA tracking app.- [GitHub (Discontinued)](#)
+* **cotgenerator**, generates CoTs on a server, great for testing servers and annoying users. - [GitHub (Discontinued)](#)
+* **FreeTAKUAS**, controls DJI drones and output's CoT to server and multicast. With RTSP video streaming support. - [Google Play](https://play.google.com/store/apps/details?id=org.FreeTak.FreeTAKUAS), [GitHub](https://github.com/FreeTAKTeam/FreeTAKUAS)
+
+## TAK Server Software (Closed Source)
+* **Raytheon BBN TAKServer** - Available through tak.gov and takmaps.com for USG authorized users. 
+
+## TAK Server Software (Free/Open Source)
+* **FreeTAKServer**, a implementation of the TAK Server for devices like ATAK, WinTAK, and ITAK, it is cross-platform and runs from a multi node installation on AWS down to the Android edition. It's free and open source (released under the Eclipse Public License). - [GitHub](https://github.com/FreeTAKTeam/FreeTakServer)
+* **taky**, a simple Python TAK Server. - [GitHub](https://github.com/tkuester/taky)
+* **MultiTAK**, a simple TAK server written in Javascript that relays messages between networks and servers. - [GitHub](https://github.com/vidterra/multitak)
+
+## TAK Server Providers (Commercial / Paid)
+* **PAR TeamConnect**, _TeamConnect- Sit(x)™ is a Next Generation TAK Server-as-a-Service solution hosted in the FedRAMP compliant AWS GovCloud_ - [Website](https://parteamconnect.com)
+* **ArgusTAK**, _a cloud based TAK server that's simple, secure and reliable_ - [Website](https://argustak.com)
+
+## TAK Development Tools & Server-Side Stuff
+* **FreeTAKServer Manager**, a Windows FTS Installer / Uninstaller GUI - [Github](https://github.com/Cale-Torino/FreeTAKServer_Manager)
+* **tak.js**, Lightweight JavaScript library for parsing and manipulating TAK messages, primarily Cursor-on-Target (COT) - [GitHub](https://github.com/vidterra/tak.js)
+* **aprscot**, APRS Cursor-on-Target Gateway. - [GitHub](https://github.com/ampledata/aprscot)
+* **adsbcot**, ADS-B to Cursor on Target (CoT) Gateway for ATAK & WinTAK SA platforms. - [GitHub](https://github.com/ampledata/adsbcot)
+* **adsbxcot**, ADS-B Exchange Cursor on Target Gateway transforms ADS-B Exchange Aircraft API Objects to Cursor on Target PLI - [GitHub](https://github.com/ampledata/adsbxcot)
+* **pytak**, Python Team Awareness Kit (PyTAK) is a Python Module for creating TAK clients_ - [GitHub](https://github.com/ampledata/pytak)
+* **stratuxcot**, Stratux Cursor on Target Gateway - [GitHub](https://github.com/ampledata/stratuxcot)
+* **inrcot**, Garmin inReach to Cursor on Target (CoT) Gateway for Situational Awareness (SA) tools like ATAK, WinTAK, RaptorX, COPERS, et al. - [GitHub](https://github.com/ampledata/inrcot)
+
+## Unofficial TAK Binary & Plugin Mirrors (TAK CIV Community Member Maintained)
+
+### Android
+* **ATAK Binaries** - [Google Drive](https://drive.google.com/drive/u/3/folders/1nf97w1N870gm4PYPEEwO78OLPt8J9Ty7)
+* **ATAK Support Plugins** - [Google Drive](https://drive.google.com/drive/u/3/folders/1PmCiWlHvIWXdW7pcudCFg6irghvOn6Ah)
+
+### Windows
+* **WinTAK Binaries** - [Google Drive](https://drive.google.com/drive/u/3/folders/1_UeEcZLVl81tbH5gSMpH4iY_XB_uuseb)
+* **WinTAK Support Plugins** - [Google Drive](https://drive.google.com/drive/u/3/folders/1M1pVLvCxh5keB5V_tXz4MNqTqH8PFC-i)
+
+## TAK Community Discussion, Chat and Resources
+* [TAK Community on Reddit](https://www.reddit.com/r/ATAK/)
+* [TAK Community on Discord](https://discord.gg/xTdEcpc)
+* [TAK Community Server List](https://www.reddit.com/r/ATAK/wiki/index/community-servers)
+
+## Hardware and Software Pick List
+
+### Small Single Board Computers (SBC's) / Microservers
+* **CanaKit Raspberry Pi 4 Basic Kit (8GB RAM)** - [Amazon](https://www.amazon.com/CanaKit-Raspberry-Basic-Kit-8GB/dp/B08DJ9MLHV)
+* **Argon NEO Raspberry Pi 4 Case** - [Amazon](https://www.amazon.com/Argon-Raspberry-Heatsink-Supports-Accessible/dp/B07WMG27T7)
 
 ### GPS
 
-### Range finders
+* **VK172 USB GPS Dongle (GPS/GLONASS), this USB module can support Windows, Android, Linux, Raspberry PI, Google Earth and WinTAK.** - [Amazon](https://www.amazon.com/Navigation-Glonass-Stratux-10-Raspberry/dp/B07QRGK7ZK)
 
-### Radios
+### Off-Grid Mesh Communicators
+* **Meshtastic** - [Website](https://meshtastic.org), [Hardware](https://meshtastic.org/docs/hardware)
+* **goTenna** - [Website](https://gotenna.com)
+* **Radacat** - [Website](https://radacat.com), [eBay](https://www.ebay.com/itm/153894533155)
 
-### Off-grid Comms
-- Meshtastic: Use with ATAK Forwarder Plugin. [Project Page](https://www.meshtastic.org/)
-    - Latest recommended hardware revision: [T-Beam V1.1 w/ NEO-M8N /w SX1262](https://www.amazon.com/TTGO-Wireless-Bluetooth-NEO-M8N-Battery/dp/B08GK8JP7Y/ref=sr_1_15?dchild=1&keywords=TTGO&qid=1613529697&sr=8-15)
-    - Compatible case for 3D Printing: [T-BEAM_M8N_Case_Molle_IMA_v0.4_10FEB2021.stp.zip](https://discord.com/channels/698067185515495436/699733695333924976/809569287177371668)
-- goTenna
-- Radacat
+### Screen Casting
+* **scrcpy**, display and control your Android device. Useful for high-speed, low-latency screen casting for Android devices. Easily cast your ATAK screen on a big LCD TV or projector with no additional applications needed. (_Requires Developer option be enabled._) - [GitHub](https://github.com/Genymobile/scrcpy)
 
-## Gear
-### Phones
+### Radio
+* **Retevis**
+* **BTech**
 
-### Cases
+### Range Finders
+* **TruPulse 360 Laser Rangefinder** (w/ Bluetooth) - [Website](https://www.lasertech.com/TruPulse-Laser-Rangefinder.aspx)
 
-## Development
-### Tools
-- scrcpy: This application provides display and control of Android devices connected on USB (or over TCP/IP). It does not require any root access. It works on GNU/Linux, Windows and macOS.
+## Field Gear and Accessories
 
+### Mobile Devices (Phones)
+* **Samsung Galaxy S7 and above**
 
 
+### End-User Devices Cases
+* **Kagwerks** - [Operator Kits and Cases](https://kagwerks.com/collections/operators-kits)
+* **Jugggernaut Case** - [Smartphone Cases](https://shop.juggernautcase.com/smartphone-cases/juggernaut-cases/)
+
+## TAK Product Center Plugins - CIV (USG)
+These plugins are available from the TAK Product Center at [tak.gov](https://tak.gov). With updated _actual_ descriptions from TPC. As there are some inaccuracies on the original pull. Plugins names are in **bold**.
+
+* **ADSB** - ADSB is to allow for a FlightAware USB stick to provide input into ATAK and allow for aircraft equipped with ADS-B transponders to be displayed on the map. The map can be conveniently panned and zoomed to aircraft locations and this same data to be pumped back into a TAK server or local mesh network.
+* **ARES-N** - Augmented Reality System for Navigation (ARES-N) capability is a suite of APKs (ARES-N, ATAK, AR Repeater and VNS) to deliver a hands-free, heads-up route with turn-by-turn navigation. Originally funded by the Combating Terrorism Technical Support Office (CTTSO) and directed by end-users from AFSOC. 
+* **Beartooth** - The purpose of the Beartooth ATAK plug-in is to use the Beartooth radios as a network transport for simple situation awareness data (e.g., PLI, Chat, PTT audio). One Beartooth device with a secondary network (e.g., TAK Server) will proxy blue force tracks it receives over Beartooth to the secondary network.
+* **Chokepoint** analyzes road networks to determine the minimum resources required to isolate a region, and can be used to setup perimeters for force protection, threat containment, sensor deployment, etc.
+* ATAK **Cloud** Owncloud/FTP server integration. Allows users to upload and download files and data packages to and from a remote file server.
+* **Compass Nav** tool provides access to the legacy compass tool in ATAK.  This plug-in will also override the functionality of the Quick Nav tool.
+* **Data Synchronization** plug-in is used to synchronize multiple ATAK devices involved in the same exercise or event. This plug-in should be utilized in conjunction with the latest TAK Server version and no earlier than 1.3.3+. TAK Server stores all data for a "mission" in a server-side database. 
+* **DSM Manager** allows integration of user generated elevation products such as Pix4D elevation geotiff and shows coverage.
+* **ESChat** plugin only an on screen PTT button widget to initiate PTT calls in the ESChat app."
+* The Execution Checklist (**ExCheck**) plug-in allows users to monitor and update the status of a shared checklist that is hosted out on a TAK Server.  Each checklist is an instance of a template that defines several tasks to be completed.
+* **GEEP** provides access to GEEP (Google Earth Enterprise) offline imagery and terrain exports.
+* **GEO TAK CAM** is a camera plug-in used to capture images with geospatial metadata. This currently exists as both an organic ATAK plug-in and as a separate application. Both function the same way but serve different use cases.
+* **goTenna** ATAK plug-in is to use goTenna Pro X radios to create a tactical mesh network for situational awareness data (e.g., PLI such as location, points, routes, etc.) and chat when off-grid (see www.gotennapro.com for more details). A goTenna user with a connection to a secondary network (e.g., TAK Server via LTE) will proxy blue force tracks, points and chat it receives from goTenna to the secondary network via the End User Device (EUD).  Each ATAK version (e.g., 3.8, 3.10, MIL, CIV, etc.) requires a different goTenna ATAK plug-in.
+* **GRG Builder** is a tool for creating GRG (KMZ) files using a snapshot of high-resolution map imagery with map items, file overlays, and optional snapshot information, map scale, compass, crosshair and an MGRS grid.
+* **GvLF Streamer** a DTED Streamer that provides an interface for downloading compressed DTED data from a TAK server with GvLF installed.
+* **Heads Up Display (HUD)** plug-in is used to connect ATAK to HUD devices. The plug-in allows the user to set filters to specify what data should be transmitted to the HUD. Navigational routes may also be transmitted to the HUD. The plug-in provides a start "Sync" button to send data to the HUD, based on the user filters.
+* The **Last Known Location** plug-in logs all user's location details connected to the same network. If a user drops off the network, that user can be queried using the plug-in and view the last location it sent out before the user dropped off. 
+* **Milestone** gives the ability to query a Milestone server and start a live video feed.
+* **OCEUS VPN** tells ATAK that the state of the VPN has changed and trigger a refresh across all of the network interface.
+* **Pager** is a tool for no notice callouts and for tracking personnel accountability to events within or in proximity to a defined location.
+* ATAK **Quantized Mesh** elevation data integration using the specification provided by Cesium.
+* **QuickChat** plug-in integrates with the messaging system of ATAK to allow displaying a large dialog banner when certain/specific messages are received or messages from high priority users. High priority users are determined based on a predefined list built into the plug-in with the ability to add or remove from the list later. 
+* Quick Log allows you to take and store quick notes such as reminders or observations you've made that you need to remember. TAK sticky notes.
+* **TAK Chat** plug-in is used to chat securely with other systems via XMPP.  Since XMPP is a standard, this plug-in can chat with other applications and platforms, including non TAK products.
+* **Track Export** plug-in adds support for exporting data including track logs to various formats including KML/Z, GPX and others.
+* The **UAS Tool** is a plug-in that provides integration of Unmanned Aircraft Systems (UAS) for enhanced Situational Awareness (SA) and telemetry data, Full Motion Video (FMV), and command and control (C2).
+* **Vehicle Navigation System (VNS**) plug-in performs three major functions. First, it provides three different route planner implementations to ATAK; Google Directions, PAR Government's private routing server and offline routing. Second, it augments ATAK route navigation with turn-by-turn directions and dynamic re-routing. The last major function is an emergency quick navigation, allowing route navigation to be immediately re-routed to a pre-planned point.
+* **WAVE** plug-in provides secure Voice over IP (VoIP) using Motorola WAVE technology. This plug-in allows ATAK users to communicate via WAVE without leaving the ATAK application. A WAVE Proxy server supporting the "ATAK Wave license" is required.
+* **Wx Report** plug-in provides ATAK users with the capabilities to query for the weather forecast at a given location and add weather overlays to the map. The weather query displays current conditions (NOAA/Yahoo data), as well as the 10-day projected forecast.
+* The **ICE** Voice Plug-in is a serverless voice software application that allows push to talk communication between teams over IP and MANET networks, integration and interoperability with Combat Net Radios via direct connect (Silvus, Trellisware)or donor attached via a radio gateway.  The next release will feature the creation of ad hoc voice channels for one to one or one to many based.  The ad hoc channels can be created from the contact list, GeoChat or by creating a geo-fence on the map application. The ICE Voice Plug-in will also integrate with the COTS ICE Server as well as the COTS ICE Desktop and Mobile client.
+* The **Munter** Tool is used to calculate the time required to traverse a route based on the distance traveled, travel method, and elevation gain/loss.
+* **Neon** plug-in provides GPS-denied tracking using TRX Neon Tracking Devices and the Neon Location Service.  The Neon Location Service combines inertial motion, Android GPS locations and externally connected device locations to provide a continuous location and altitude for the ATAK interface.
+* Provides a **SIP** capability for ATAK based on native Android libraries specifically for Voice over IP servers such as Asterisk and FreeSIP.
+* **Somewear**’s compact satellite hotspot and ATAK plugin provide reliable BLOS communication and situational awareness between personnel, assets, interagency partners and operations centers. Somewear supports 100% global coverage across ground, aerial and maritime operations. [https://www.somewearlabs.com/government](https://www.somewearlabs.com/government)
