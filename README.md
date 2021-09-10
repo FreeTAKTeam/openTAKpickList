@@ -78,10 +78,15 @@ Standalone applications released by the TAK Product Center (TPC) on the Google P
 * [TAK Community on Reddit](https://www.reddit.com/r/ATAK/)
 * [TAK Community on Discord](https://discord.gg/xTdEcpc)
 * [TAK Community Server List](https://www.reddit.com/r/ATAK/wiki/index/community-servers)
+* [Reddit TAK JumpStart Wiki](https://www.reddit.com/r/ATAK/wiki/index)
+* [The openTAKpickList](https://github.com/FreeTAKTeam/openTAKpickList) - You're here right now.
 
 ## Hardware and Software Pick List
 
 ### Small Single Board Computers (SBC's) / Microservers
+* **Raspberry Pi** - [Website](https://www.raspberrypi.org/)
+
+#### Full Pi Kits and Accessories
 * **CanaKit Raspberry Pi 4 Basic Kit (8GB RAM)** - [Amazon](https://www.amazon.com/CanaKit-Raspberry-Basic-Kit-8GB/dp/B08DJ9MLHV)
 * **Argon NEO Raspberry Pi 4 Case** - [Amazon](https://www.amazon.com/Argon-Raspberry-Heatsink-Supports-Accessible/dp/B07WMG27T7)
 
@@ -95,10 +100,10 @@ Standalone applications released by the TAK Product Center (TPC) on the Google P
 * **Radacat** - [Website](https://radacat.com), [eBay](https://www.ebay.com/itm/153894533155)
 
 ### Screen Casting
-* **scrcpy**, display and control your Android device. Useful for high-speed, low-latency screen casting for Android devices. Easily cast your ATAK screen on a big LCD TV or projector with no additional applications needed. (_Requires Developer option be enabled._) - [GitHub](https://github.com/Genymobile/scrcpy)
+* **scrcpy**, display and control your Android device. Useful for high-speed, low-latency screen casting for Android devices. Easily cast your ATAK screen on a big LCD TV or projector with no additional applications needed. (_Requires **Developer Option** enabled to work._) - [GitHub](https://github.com/Genymobile/scrcpy)
 
 ### Radio
-* **Retevis**
+* **Retevis** - [Website](https://www.retevis.com/handheld-radios)
 * **BTech** - [BTECH APRS-K1 Cable (Amazon)](https://www.amazon.com/BTECH-APRS-K1-Interface-APRSDroid-Compatible/dp/B01LMIBAZW)
 
 ### Range Finders
@@ -107,16 +112,17 @@ Standalone applications released by the TAK Product Center (TPC) on the Google P
 ## Field Gear and Accessories
 
 ### Mobile Devices (Phones)
-* **Samsung Galaxy S7 and above**
+* **Samsung Galaxy S5 and above** - Samsung Galaxy flagship devices work best with ATAK.
+* **Blackview BV6600** - [Website](https://store.blackview.hk/products/blackview-bv6600-8580mah-4g-rugged-smartphone)
 
 
 ### End-User Devices Cases
 
-## OG Cases
+#### OG Cases
 * **Jugggernaut Case** - [Smartphone Cases](https://shop.juggernautcase.com/smartphone-cases/juggernaut-cases/)
 * **Kagwerks** - [Operator Kits and Cases](https://kagwerks.com/collections/operators-kits)
 
-## AliExpress / Chinesium Cases
+#### AliExpress / Chinesium EUD Accessories
 
 * **Universal Phone Panel Information Board** - [AliExpress](https://www.aliexpress.com/item/4001068393467.html)
 * **Carrier Plate Panel for Tactical Vest** - [AliExpress](https://www.aliexpress.com/item/1005001643838775.html)
@@ -162,7 +168,7 @@ These plugins are available from the TAK Product Center at [tak.gov](https://tak
 # References
 
 * TAK Product Center - takmaps.com, tak.gov
-* Original openTAKPickList (V1)
+* Original openTAKPickList (V1) - [Link](https://github.com/FreeTAKTeam/openTAKpickList/blob/00e2e3e11df6bbe73dbf740c1e3aec648f452cdc/README.md)
 * TAK Discord Community Feedback
 * Reddit TAK JumpStart Wiki
 * CivTAK.org Wiki
