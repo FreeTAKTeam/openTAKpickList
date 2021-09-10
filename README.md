@@ -17,6 +17,7 @@ a list of hardware and software to be used in conjunction with the TAK platform.
 - TAK server: Non available to the public
 - FreeTAKServer: [connects sever TAK clients](https://github.com/FreeTAKTeam/FreeTakServer)
 - (FreeTAKServer Docker) [https://github.com/FreeTAKTeam/FreeTAKServer-Docker]
+- [ArgusTAK](https://argustak.com/) : Cloud hosted TAK Server - get started with up to 5 devices for free!
 
 #### installers
 - [FreeTAKServer_Manager](https://github.com/Cale-Torino/FreeTAKServer_Manager): Windows FTS Installer/Uninstaller GUI
