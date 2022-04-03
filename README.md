@@ -23,10 +23,18 @@ Plugins released by the TAK Product Center (TPC) on the Google Play Store and on
 
 * **WASP**, a plug-in for conducting and coordinating Wide Area Search, including search and extraction, confined space rescue, and victim triage, when responding to incidents such as a natural disaster. - [Google Play](https://play.google.com/store/apps/details?id=com.atakmap.android.wasp.plugin)
 * **HAMMER**,  Handheld Acoustic Modem for Mobile Exchanges with Radios (HAMMER) is an ATAK plugin that acts as a software acoustic modem, allowing one to transmit/receive TAK data over voice comms (e.g., via walkie talkies). - [Google Play](https://play.google.com/store/apps/details?id=com.atakmap.android.cot_utility.plugin)
+* **Somewear**, Somewear’s compact satellite hotspot and ATAK plugin provide reliable BLOS communication and situational awareness between personnel, assets, interagency partners and operations centers. Somewear supports 100% global coverage across ground, aerial and maritime operations. [Google Play](https://play.google.com/store/apps/details?id=com.somewearlabs.swtak.plugin)
+* **TAK-ML**, a platform designed to make it easy to employ machine learning within the TAK ecosystem. TAK-ML provides a library and runtime system that ATAK plugin developers can use to interact with ML models developed in an any of a number of ML frameworks (e.g., [Image](https://tak.gov/plugins/tak-ml-image), [PosMov](https://tak.gov/plugins/tak-ml-pos-mov), [PyTorch](https://tak.gov/plugins/tak-ml-pytorch), [TensorFlow](https://tak.gov/plugins/tak-ml-tf-lite), [Weka](https://tak.gov/plugins/tak-ml-weka)). [TAK.gov](https://tak.gov/plugins/tak-ml)
+* **UAS Tool**, a plug-in that provides integration of Unmanned Aircraft Systems (UAS) for enhanced Situational Awareness (SA) and telemetry data, Full Motion Video (FMV), and command and control (C2). [Tak.gov](https://tak.gov/plugins/uas-tool)
+* **DataSync**, used to synchronize multiple ATAK devices involved in the same exercise or event. This plug-in requires TAK Server 1.3.3+. TAK Server stores all data for a "mission" in a server side database. Clients may subscribe to a mission to receive dynamic updates when a mission changes, or to synchronize data missed while a given device was disconnected. [Tal.gov](https://tak.gov/plugins/datasync)
 
 ## TAK Plugins (Community Developed)
 * **atak-forwarder**, forwards packets to/from ATAK over an off-grid communication layer. (Meshtastic) - [GitHub](https://github.com/paulmandal/atak-forwarder), [Binary Repository](https://drive.google.com/drive/folders/1xeKJnn9tmzkkmuDbMp0LCLOV9OzHU-Ex)
-* **'Improved' HAMMER Fork**, a customized HAMMER build with performance hacks. - [GitHub](https://github.com/niccellular/hammer), [Binary Repository](https://drive.google.com/drive/folders/11y4tOyomIVV7piBU-AbI77hX5ZpoDk01) 
+* **'Improved' HAMMER Fork**, a customized HAMMER build with performance hacks. - [GitHub](https://github.com/niccellular/hammer), [Binary Repository](https://drive.google.com/drive/folders/11y4tOyomIVV7piBU-AbI77hX5ZpoDk01)
+* **OpenTakNavigation**, enables offline routing using graphhopper routing engine and Open Stree Map data. - [GitHub](https://github.com/L-Belluomini/OTN)
+* **APRS-TAK**, uses APRSDroid's API to generate PLI/GeoChat within ATAK. - [Github](https://github.com/niccellular/aprstak)
+* **BingMaps**, ATAK Plugin to display BingMaps Bird's Eye. - [Github](https://github.com/niccellular/bingmaps)
+* **CotMaker**, a simple plugin that creates a CoT from a decimal format GPS coordinate. - [Github](https://github.com/niccellular/cotmaker) 
 
 ## TAK Utilities (TPC)
 Standalone applications released by the TAK Product Center (TPC) on the Google Play Store and on TAK.gov.
