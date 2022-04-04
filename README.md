@@ -35,6 +35,7 @@ Plugins released by the TAK Product Center (TPC) on the Google Play Store and on
 * **APRS-TAK**, uses APRSDroid's API to generate PLI/GeoChat within ATAK. - [Github](https://github.com/niccellular/aprstak)
 * **BingMaps**, ATAK Plugin to display BingMaps Bird's Eye. - [Github](https://github.com/niccellular/bingmaps)
 * **CotMaker**, a simple plugin that creates a CoT from a decimal format GPS coordinate. - [Github](https://github.com/niccellular/cotmaker) 
+* **FreeTAKMumla**, a ATAK plugin that displays a PPT button for Mumla Android.  [Github](https://github.com/FreeTAKTeam/FreeTAKMumla_Plugin)
 
 ## TAK Utilities (TPC)
 Standalone applications released by the TAK Product Center (TPC) on the Google Play Store and on TAK.gov.
