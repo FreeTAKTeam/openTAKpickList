@@ -35,7 +35,7 @@ Plugins released by the TAK Product Center (TPC) on the Google Play Store and on
 * **APRS-TAK**, uses APRSDroid's API to generate PLI/GeoChat within ATAK. - [Github](https://github.com/niccellular/aprstak)
 * **BingMaps**, ATAK Plugin to display BingMaps Bird's Eye. - [Github](https://github.com/niccellular/bingmaps)
 * **CotMaker**, a simple plugin that creates a CoT from a decimal format GPS coordinate. - [Github](https://github.com/niccellular/cotmaker) 
-* **FreeTAKMumla**, a ATAK plugin that displays a PPT button for Mumla Android.  [Github](https://github.com/FreeTAKTeam/FreeTAKMumla_Plugin)
+* **FreeTAKMumla**, a ATAK plugin that displays a PPT button for Mumla Android. - [Github](https://github.com/FreeTAKTeam/FreeTAKMumla_Plugin)
 
 ## TAK Utilities (TPC)
 Standalone applications released by the TAK Product Center (TPC) on the Google Play Store and on TAK.gov.
@@ -55,6 +55,7 @@ Standalone applications released by the TAK Product Center (TPC) on the Google P
 * **GoATAK**, Golang implementation of ATAK server/CoT router aimed to test some ideas about CoT message routing. - [GitHub](https://github.com/kdudkov/goatak)
 * **taky**, a simple Python TAK Server. - [GitHub](https://github.com/tkuester/taky)
 * **MultiTAK**, a simple TAK server written in Javascript that relays messages between networks and servers. - [GitHub](https://github.com/vidterra/multitak)
+* **OpenTAKRouter**, an Open Source Cursor-on-Target router with support for ATAK. (w/ native Windows 10 support) - [GitHub](https://github.com/darkplusplus/opentakrouter/releases)
 
 ## TAK Server Providers (Commercial / Paid)
 * **PAR TeamConnect**, _TeamConnect- Sit(x)™ is a Next Generation TAK Server-as-a-Service solution hosted in the FedRAMP compliant AWS GovCloud_ - [Website](https://parteamconnect.com)
@@ -178,7 +179,7 @@ These plugins are available from the TAK Product Center at [tak.gov](https://tak
 
 # References
 
-* TAK Product Center - takmaps.com, tak.gov
+* TAK Product Center - [takmaps.com], [tak.gov]
 * Original openTAKPickList (V1) - [Link](https://github.com/FreeTAKTeam/openTAKpickList/blob/00e2e3e11df6bbe73dbf740c1e3aec648f452cdc/README.md)
 * TAK Discord Community Feedback
 * Reddit TAK JumpStart Wiki
