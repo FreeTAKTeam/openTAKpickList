@@ -3,13 +3,12 @@
 This is a list of web resources, hardware and software that can be used in conjunction with the Team Awareness Kit (TAK) platform.
 
 ## Official TAK Resources
-* [TAK Product Center - New](https://tak.gov) 
-* [TAK Product Center - Old](https://takmaps.com)
+* [TAK Product Center](https://tak.gov) - The official TAK Product Center
 * [TAK Promo Video - YouTube](https://www.youtube.com/watch?v=tojMXYMVdyw)
 
 ## Community TAK Resources
 * [CivTAK.org Website](https://www.civtak.org)
-* [TAK JumpStart Wiki on Reddit](https://www.reddit.com/r/ATAK/wiki/index)
+* [TAK JumpStart Wiki on Reddit](https://www.reddit.com/r/ATAK/wiki/index) - A community wiki on Reddit
 * [CivTAK Wiki](https://wiki.civtak.org/index.php) * Needs updating.
 
 ## TAK Binaries and Source Code (TPC)
@@ -17,6 +16,7 @@ Released by the TAK Product Center (TPC)
 
 * Android Team Awareness Kit (ATAK) - CIV - [Google Play](https://play.google.com/store/apps/details?id=com.atakmap.app.civ)
 * Android Team Awareness Kit (ATAK) - CIV | Source Code - [GitHub](https://github.com/deptofdefense/AndroidTacticalAssaultKit-CIV)
+* TAK Server | Source Code - [GitHub](https://github.com/TAK-Product-Center/Server) | [TAK.GOV](https://tak.gov/) - (Requires registration - some restrictions apply) 
 
 ## TAK Plugins (TPC)
 Plugins released by the TAK Product Center (TPC) on the Google Play Store and on TAK.gov.
@@ -47,8 +47,6 @@ Standalone applications released by the TAK Product Center (TPC) on the Google P
 * **cotgenerator**, generates CoTs on a server, great for testing servers and annoying users. - [GitHub (Discontinued)](#)
 * **FreeTAKUAS**, controls DJI drones and output's CoT to server and multicast. With RTSP video streaming support. - [Google Play](https://play.google.com/store/apps/details?id=org.FreeTak.FreeTAKUAS), [GitHub](https://github.com/FreeTAKTeam/FreeTAKUAS)
 
-## TAK Server Software (Closed Source)
-* **Raytheon BBN TAKServer** - Available through tak.gov and takmaps.com for USG authorized users. 
 
 ## TAK Server Software (Free/Open Source)
 * **FreeTAKServer**, a implementation of the TAK Server for devices like ATAK, WinTAK, and ITAK, it is cross-platform and runs from a multi node installation on AWS down to the Android edition. It's free and open source (released under the Eclipse Public License). - [GitHub](https://github.com/FreeTAKTeam/FreeTakServer)
@@ -131,12 +129,12 @@ Standalone applications released by the TAK Product Center (TPC) on the Google P
 ### End-User Devices Cases
 
 #### OG Cases
-* **Jugggernaut Case** - [Smartphone Cases](https://shop.juggernautcase.com/smartphone-cases/juggernaut-cases/)
+* **Jugggernaut Case** - [Smartphone Cases](https://juggernautcase.com/)
 * **Kagwerks** - [Operator Kits and Cases](https://kagwerks.com/collections/operators-kits)
 
 #### AliExpress / Chinesium EUD Accessories
 
-* **Universal Phone Panel Information Board** - [AliExpress](https://www.aliexpress.com/item/4001068393467.html)
+* **TACTICAL EUD Holder** - [AliExpress](https://www.aliexpress.com/item/2251832823235692.html)
 * **Carrier Plate Panel for Tactical Vest** - [AliExpress](https://www.aliexpress.com/item/1005001643838775.html)
 
 ## TAK Product Center Plugins - CIV (USG)
@@ -179,7 +177,7 @@ These plugins are available from the TAK Product Center at [tak.gov](https://tak
 
 # References
 
-* TAK Product Center - [takmaps.com], [tak.gov]
+* TAK Product Center - [tak.gov]
 * Original openTAKPickList (V1) - [Link](https://github.com/FreeTAKTeam/openTAKpickList/blob/00e2e3e11df6bbe73dbf740c1e3aec648f452cdc/README.md)
 * TAK Discord Community Feedback
 * Reddit TAK JumpStart Wiki
